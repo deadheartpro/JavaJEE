@@ -19,7 +19,7 @@ import javax.transaction.UserTransaction;
 
 /**
  *
- * @author heffel
+ * @author boussala noureddine
  */
 public class CustomerJpaController implements Serializable {
 

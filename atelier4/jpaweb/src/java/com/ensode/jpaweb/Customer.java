@@ -13,7 +13,7 @@ import javax.persistence.Id;
 
 /**
  *
- * @author heffel
+ * @author boussala noureddine
  */
 @Entity
 public class Customer implements Serializable {
